@@ -1,0 +1,16 @@
+C:\Users\dlean\Desktop\Lista1_C#\bin\Debug\net5.0\Lista1_C#.exe
+C:\Users\dlean\Desktop\Lista1_C#\bin\Debug\net5.0\Lista1_C#.deps.json
+C:\Users\dlean\Desktop\Lista1_C#\bin\Debug\net5.0\Lista1_C#.runtimeconfig.json
+C:\Users\dlean\Desktop\Lista1_C#\bin\Debug\net5.0\Lista1_C#.runtimeconfig.dev.json
+C:\Users\dlean\Desktop\Lista1_C#\bin\Debug\net5.0\Lista1_C#.dll
+C:\Users\dlean\Desktop\Lista1_C#\bin\Debug\net5.0\Lista1_C#.pdb
+C:\Users\dlean\Desktop\Lista1_C#\obj\Debug\net5.0\Lista1_C#.csproj.AssemblyReference.cache
+C:\Users\dlean\Desktop\Lista1_C#\obj\Debug\net5.0\Lista1_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlean\Desktop\Lista1_C#\obj\Debug\net5.0\Lista1_C#.AssemblyInfoInputs.cache
+C:\Users\dlean\Desktop\Lista1_C#\obj\Debug\net5.0\Lista1_C#.AssemblyInfo.cs
+C:\Users\dlean\Desktop\Lista1_C#\obj\Debug\net5.0\Lista1_C#.csproj.CoreCompileInputs.cache
+C:\Users\dlean\Desktop\Lista1_C#\obj\Debug\net5.0\Lista1_C#.dll
+C:\Users\dlean\Desktop\Lista1_C#\obj\Debug\net5.0\refint\Lista1_C#.dll
+C:\Users\dlean\Desktop\Lista1_C#\obj\Debug\net5.0\Lista1_C#.pdb
+C:\Users\dlean\Desktop\Lista1_C#\obj\Debug\net5.0\Lista1_C#.genruntimeconfig.cache
+C:\Users\dlean\Desktop\Lista1_C#\obj\Debug\net5.0\ref\Lista1_C#.dll
